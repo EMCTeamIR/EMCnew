@@ -57,7 +57,7 @@ return {
     "info [Reaply]: Return Username, First Name, Last Name, Stats, Position.",
     },
     patterns = {
-      "^([Ii]nfo)$"
+      "^[!/#](info)$"
     },
   run = run
 }
